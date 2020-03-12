@@ -1,0 +1,5 @@
+writeup/shared/*
+writeup/template and guides/*
+writeup/writeup - submitted/*
+writeup/writeup - public/*
+!writeup/writeup - public/writeup_public.pdf
